@@ -1,0 +1,6 @@
+What is Decision Tree?
+Decision Tree is a flowchart tree structure, where each internal nodes(non-leaf node) denotes a test on an attribute, each 
+branch represents an outcome of the test, and each leaf node(or termainal node) holds a class label.
+The topmost node in a tree is the root node, A typical decision tree is shown in figure. It represents the concepts buy_computer, that is ,
+it predicts whether a customer at AllElectronics is likely to purchase a computer,Internal nodes are denoted by rectangles, and leaf nodes 
+are denoted by ovals.
